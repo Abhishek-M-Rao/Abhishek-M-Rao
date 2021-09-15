@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek-M-Rao
-- 👀 I’m interested in autonomous robots and machine learning
+- 👀 I’m interested in autonomous robots, machine learning, and generally low-level coding
 - 🌱 I’m currently learning computer architecture and embedded systems, for languages I am learning C++
 - 💞️ I’m looking to collaborate on research relating to autonomous mobile robots 
 - 📫 How to reach me my email abhishekrao1252@gmail.com or abhishekrao@utexas.edu
