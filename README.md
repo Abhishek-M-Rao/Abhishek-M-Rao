@@ -2,7 +2,7 @@
 - 👀 I’m interested in autonomous robots, machine learning, and generally low-level coding
 - 🌱 I’m currently learning computer architecture and embedded systems, for languages I am learning C++
 - 💞️ I’m looking to collaborate on research relating to autonomous mobile robots 
-- 📫 How to reach me my email abhishekrao1252@gmail.com or abhishekrao@utexas.edu
+- 📫 How to reach me my email abhishekrao@utexas.edu or phone 512-669-1451
 
 <!---
 Abhishek-M-Rao/Abhishek-M-Rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
